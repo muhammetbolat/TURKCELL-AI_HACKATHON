@@ -208,7 +208,7 @@ queues==0.6.3
 requests==2.22.0
 requests-oauthlib==1.2.0
 rope==0.14.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.46
 scapy==2.4.3
 scikit-image==0.15.0
